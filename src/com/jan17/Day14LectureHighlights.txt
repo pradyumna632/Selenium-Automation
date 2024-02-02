@@ -1,0 +1,10 @@
+How to Read/Write Data from Excel File ------->
+
+Apache POI Library Version Used: (poi-bin-5.2.3-20220909)
+
+Data Driven Testing Framework :
+
+     What is Apache POI:
+     Apache POI is an open-source library developed and distributed by Apache Foundation. Moreover,
+     it is mainly used to create, read, and edit Microsoft Office files, majorly Excel files in Java programs.
+     Moreover, it is distributed as a JAR, which provides various methods to manipulate Microsoft Excel files.

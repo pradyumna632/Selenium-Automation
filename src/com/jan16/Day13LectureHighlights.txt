@@ -1,0 +1,11 @@
+How to capture Screenshot : TakeScreenShot
+    Article[1] https://toolsqa.com/selenium-webdriver/screenshot-in-selenium/
+
+Apache CommonsIO Library Version used = commons-io-2.15.1-bin
+used for class importing : FileUtils (class)
+    Apache Commons IO library provides various utility classes for common operations
+    for File IO covering wide range of use cases. It helps avoid writing boilerplate code.
+
+
+Properties file access:
+    Article[1] https://www.toolsqa.com/selenium-cucumber-framework/read-configurations-from-property-file/

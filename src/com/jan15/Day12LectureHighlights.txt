@@ -1,0 +1,9 @@
+12 January :
+    Implicit Wait
+
+13, 14 January : Weekend
+
+15 January:
+    Explicit Wait
+    Fluent wait
+

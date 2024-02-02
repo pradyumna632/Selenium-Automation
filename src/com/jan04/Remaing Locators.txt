@@ -1,0 +1,4 @@
+Topics Remaining of Locators ---->
+
+8) xpath (absolute & relative) , Handling Dynamic Xpath
+    > Sir will take this topic later.

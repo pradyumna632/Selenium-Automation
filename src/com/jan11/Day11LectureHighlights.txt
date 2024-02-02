@@ -1,0 +1,3 @@
+12 January:
+    1) iFrame and Frame
+    2) Implicit Wait
